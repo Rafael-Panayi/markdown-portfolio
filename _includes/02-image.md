@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Dog Image](https://www.google.com/search?q=dog&safe=active&sxsrf=ALeKk02Lezfd5Ma9uf5ja9gJzmSMWKsquA:1590483913112&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOoqWlltHpAhURy6QKHXCWDEwQ_AUoAXoECBYQAw&biw=1280&bih=592&dpr=1.5#imgrc=eVjQAZiKKGUYtM)
